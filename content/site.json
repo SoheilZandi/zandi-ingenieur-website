@@ -1,12 +1,23 @@
 {
-  "brand": "ZANDI Ingenieurbüro",
-  "eyebrow": "Elektrotechnik · Sachverständigenwesen",
-  "headline1": "Elektrotechnik",
-  "headline2": "und Photovoltaik",
-  "hero_text": "Planung, Prüfung und gutachterliche Bewertung von elektrotechnischen Anlagen und Photovoltaikanlagen.",
-  "intro_title": "Ingenieurleistungen mit technischem Anspruch",
   "intro_text": "ZANDI Ingenieurbüro unterstützt private und gewerbliche Auftraggeber bei elektrotechnischen Planungen, Prüfungen und der fachlichen Bewertung von Photovoltaikanlagen.",
+  "intro_title": "Ingenieurleistungen mit technischem Anspruch",
+  "about_title": "Über mich",
+  "brand": "ZANDI Ingenieurbüro TESET",
+  "about_role": "Soheil Zandi · Dipl.-Ingenieur Elektrotechnik",
+  "eyebrow": "Elektrotechnik · Sachverständigenwesen",
+  "city": "48317 Drensteinfurt",
+  "contact_text": "Sie haben eine technische Fragestellung oder benötigen eine gutachterliche Bewertung? Schreiben Sie mir gerne.",
+  "phone": "+49 163 3418796",
+  "statement": "Technisch fundiert. Unabhängig. Verständlich.",
+  "about_text1": "Als Ingenieur für Elektrotechnik verbinde ich praktische Planungserfahrung mit technischem Sachverständigenwesen.",
+  "photo": "",
+  "hero_text": "Planung, Prüfung und gutachterliche Bewertung von elektrotechnischen Anlagen und Photovoltaikanlagen.",
+  "about_text2": "Mein Schwerpunkt liegt auf elektrotechnischen Anlagen und Photovoltaikanlagen. Dabei stehen eine nachvollziehbare technische Bewertung und eine sorgfältige Dokumentation im Mittelpunkt.",
+  "address": "Helene-Weber-Str. 12",
   "services_title": "Leistungen",
+  "contact_title": "Kontakt",
+  "email": "info@zandi-ingenieur.de",
+  "headline1": "Elektrotechnik",
   "services": [
     {
       "title": "Elektrotechnische Planung",
@@ -25,16 +36,5 @@
       "text": "Unabhängige technische Einschätzung und Unterstützung bei elektrotechnischen Fragestellungen."
     }
   ],
-  "statement": "Technisch fundiert. Unabhängig. Verständlich.",
-  "about_title": "Über mich",
-  "about_role": "Soheil Zandi · Dipl.-Ingenieur Elektrotechnik",
-  "about_text1": "Als Ingenieur für Elektrotechnik verbinde ich praktische Planungserfahrung mit technischem Sachverständigenwesen.",
-  "about_text2": "Mein Schwerpunkt liegt auf elektrotechnischen Anlagen und Photovoltaikanlagen. Dabei stehen eine nachvollziehbare technische Bewertung und eine sorgfältige Dokumentation im Mittelpunkt.",
-  "contact_title": "Kontakt",
-  "contact_text": "Sie haben eine technische Fragestellung oder benötigen eine gutachterliche Bewertung? Schreiben Sie mir gerne.",
-  "email": "info@zandi-ingenieur.de",
-  "phone": "+49 163 3418796",
-  "address": "Helene-Weber-Str. 12",
-  "city": "48317 Drensteinfurt",
-  "photo": ""
+  "headline2": "und Photovoltaik"
 }
