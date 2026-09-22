@@ -1,7 +1,7 @@
 {
   "firmname": "ZANDI Ingenieurbüro",
-  "subtitle": "Elektrotechnik · Sachverständigenwesen",
-  "hero_title": "Elektrotechnik und Photovoltaik",
+  "subtitle": "Elektrogebäudetechnik · Sachverständigenwesen",
+  "hero_title": "Elektrogebäudetechnik und Photovoltaik",
   "hero_lines": [
     "Planung.",
     "Prüfung. Gutachten."
@@ -13,16 +13,12 @@
     },
     {
       "title": "PV-Gutachten",
-      "text": "Technische Prüfung · Bewertung · Dokumentation"
-    },
-    {
-      "title": "Sachverständigenleistungen",
-      "text": "Unabhängige technische Begutachtung von PV-Anlagen"
+      "text": "Technische Begutachtung · Bewertung · Dokumentation"
     }
   ],
   "about_name": "Soheil Zandi",
   "about_qualification": "Gutachter für Photovoltaik-Anlagen (TÜV)",
-  "about_text": "Freiberuflicher Planungsingenieur für Elektrotechnik mit mehrjähriger Erfahrung in öffentlichen und Sondergebäuden.",
+  "about_text": "Freiberuflicher Planungsingenieur für Elektrogebäudetechnik mit mehrjähriger Erfahrung in öffentlichen und Sondergebäuden.",
   "email": "info@zandi-ingenieur.de",
   "phone": "+49 163 3418796"
 }
