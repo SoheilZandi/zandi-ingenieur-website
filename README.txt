@@ -1,3 +1,5 @@
-CMS-Update für ZANDI Ingenieurbüro
-
-Enthält Decap CMS unter /admin. Inhalte werden in content/site.json gespeichert.
+ZANDI Ingenieurbüro – finale One-Page-Version
+Repository: SoheilZandi/zandi-ingenieur-website
+Branch: main
+CMS: Decap CMS mit GitHub-Backend
+Netlify veröffentlicht die Website automatisch nach Änderungen auf main.

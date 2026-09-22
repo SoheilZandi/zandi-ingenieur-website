@@ -13,29 +13,21 @@ collections:
         file: "content/site.json"
         format: "json"
         fields:
-          - {label: "Firmenname", name: "brand", widget: "string"}
-          - {label: "Kleine Überschrift", name: "eyebrow", widget: "string"}
-          - {label: "Startseite – Zeile 1", name: "headline1", widget: "string"}
-          - {label: "Startseite – Zeile 2", name: "headline2", widget: "string"}
-          - {label: "Startseite – Beschreibung", name: "hero_text", widget: "text"}
-          - {label: "Einleitung – Überschrift", name: "intro_title", widget: "string"}
-          - {label: "Einleitung – Text", name: "intro_text", widget: "text"}
-          - {label: "Leistungen – Überschrift", name: "services_title", widget: "string"}
+          - {label: "Firmenname", name: "firmname", widget: "string"}
+          - {label: "Untertitel", name: "subtitle", widget: "string"}
+          - {label: "Hero-Titel", name: "hero_title", widget: "string"}
+          - label: "Hero-Zeilen"
+            name: "hero_lines"
+            widget: "list"
+            field: {label: "Text", name: "text", widget: "string"}
           - label: "Leistungen"
-            name: "services"
+            name: "leistungen"
             widget: "list"
             fields:
               - {label: "Titel", name: "title", widget: "string"}
-              - {label: "Beschreibung", name: "text", widget: "text"}
-          - {label: "Statement", name: "statement", widget: "text"}
-          - {label: "Über mich – Name", name: "about_title", widget: "string"}
-          - {label: "Über mich – Funktion", name: "about_role", widget: "string"}
-          - {label: "Über mich – Text 1", name: "about_text1", widget: "text"}
-          - {label: "Über mich – Text 2", name: "about_text2", widget: "text"}
-          - {label: "Kontakt – Überschrift", name: "contact_title", widget: "string"}
-          - {label: "Kontakt – Text", name: "contact_text", widget: "text"}
+              - {label: "Text", name: "text", widget: "string"}
+          - {label: "Name", name: "about_name", widget: "string"}
+          - {label: "Qualifikation", name: "about_qualification", widget: "string"}
+          - {label: "Über mich", name: "about_text", widget: "text"}
           - {label: "E-Mail", name: "email", widget: "string"}
           - {label: "Telefon", name: "phone", widget: "string"}
-          - {label: "Straße", name: "address", widget: "string"}
-          - {label: "PLZ / Ort", name: "city", widget: "string"}
-          - {label: "Portraitfoto", name: "photo", widget: "image", required: false}
