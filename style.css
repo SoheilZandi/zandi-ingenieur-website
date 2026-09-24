@@ -140,3 +140,11 @@ h2{font-size:2rem;letter-spacing:-.035em}
   .legal-copy .section-heading{margin-bottom:36px}
   .legal-copy h3{font-size:1.25rem;margin-top:28px}
 }
+
+.certificate{
+  margin-top:-10px;
+  margin-bottom:18px;
+  font-size:13px;
+  font-weight:400;
+  color:var(--accent);
+}
