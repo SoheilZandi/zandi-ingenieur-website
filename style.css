@@ -90,10 +90,11 @@ h1{
 .section-number{color:var(--muted);font-size:.75rem;letter-spacing:.1em}
 h2{font-size:2rem;letter-spacing:-.035em}
 .cards{display:grid;grid-template-columns:1fr 2fr;gap:60px;max-width:none}
-.card{background:transparent;border:none;padding:0;min-height:0;grid-column:2;margin-top:-62px}
+.card{background:transparent;border:none;padding:0;min-height:0;grid-column:2;margin-top:-78px}
 .card h3{font-size:1.15rem;margin-bottom:18px}
 .card p{margin:0;color:var(--muted)}
 .card li{color:var(--accent)}
+.card ul{padding-left:18px}
 .about-grid,.contact-grid{display:grid;grid-template-columns:1fr 2fr;gap:60px}
 .about-grid .section-heading,.contact-grid .section-heading{margin-bottom:0}
 .about-copy{max-width:700px}
