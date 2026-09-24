@@ -90,16 +90,17 @@ h1{
 .section-number{color:var(--muted);font-size:.75rem;letter-spacing:.1em}
 h2{font-size:2rem;letter-spacing:-.035em}
 .cards{display:grid;grid-template-columns:1fr 2fr;gap:60px;max-width:none}
-.card{background:transparent;border:none;padding:0;min-height:0;grid-column:2}
+.card{background:transparent;border:none;padding:0;min-height:0;grid-column:2;margin-top:-62px}
 .card h3{font-size:1.15rem;margin-bottom:18px}
 .card p{margin:0;color:var(--muted)}
+.card li{color:var(--accent)}
 .about-grid,.contact-grid{display:grid;grid-template-columns:1fr 2fr;gap:60px}
 .about-grid .section-heading,.contact-grid .section-heading{margin-bottom:0}
 .about-copy{max-width:700px}
 .about-copy h3{font-size:1.15rem;margin-bottom:6px}
 .qualification{margin:0 0 18px;color:var(--accent);font-weight:600}
 .about-copy>p:last-child{color:var(--muted);max-width:650px}
-.contact-copy{display:flex;flex-direction:column;gap:10px;font-family:"Manrope",Arial,sans-serif;font-size:clamp(1.15rem,3vw,2rem);font-weight:600;letter-spacing:-.025em}
+.contact-copy{display:flex;flex-direction:column;gap:10px;font-family:"Manrope",Arial,sans-serif;font-size:1.15rem;font-weight:600;letter-spacing:-.025em}
 .site-footer{padding:26px 0;color:var(--muted);font-size:.82rem}
 .footer-inner{display:flex;justify-content:space-between;gap:20px}
 .footer-inner div{display:flex;gap:22px}
@@ -121,7 +122,7 @@ h2{font-size:2rem;letter-spacing:-.035em}
   h1{font-size:clamp(2.35rem,10vw,4rem)}
   .hero-lines{gap:8px 22px;font-size:1.15rem}
   .cards{grid-template-columns:1fr}
-  .card{min-height:auto}
+  .card{min-height:auto;grid-column:1}
   .about-grid,.contact-grid{grid-template-columns:1fr;gap:26px}
   .section{padding:64px 0}
   .section-heading{margin-bottom:26px}
@@ -144,7 +145,7 @@ h2{font-size:2rem;letter-spacing:-.035em}
 .certificate{
   margin-top:-10px;
   margin-bottom:18px;
-  font-size:13px;
+  font-size:1rem;
   font-weight:400;
   color:var(--accent);
 }
