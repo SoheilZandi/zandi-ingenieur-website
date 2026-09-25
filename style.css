@@ -99,6 +99,7 @@ h2{font-size:2rem;letter-spacing:-.035em}
 .about-grid .section-heading,.contact-grid .section-heading{margin-bottom:0}
 .about-copy{max-width:700px}
 .about-copy h3{font-size:1.15rem;margin-bottom:6px}
+.degree{margin:0 0 6px;color:var(--text)}
 .degree{margin:0 0 6px;color:var(--accent)}
 .qualification{margin:0 0 18px;color:var(--accent);font-weight:600}
 .about-copy>p:last-child{color:var(--muted);max-width:650px}
