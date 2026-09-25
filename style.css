@@ -95,7 +95,7 @@ h2{font-size:2rem;letter-spacing:-.035em}
 .card p{margin:0;color:var(--muted)}
 .card li{color:var(--accent)}
 .card ul{padding-left:18px}
-.about-grid,.contact-grid{display:grid;grid-template-columns:1fr 2fr;gap:60px;width:100%}
+.about-grid,.contact-grid{display:grid;grid-template-columns:1fr 2fr;gap:60px}
 .about-grid .section-heading,.contact-grid .section-heading{margin-bottom:0}
 .about-copy{max-width:700px}
 .about-copy h3{font-size:1.15rem;margin-bottom:6px}
