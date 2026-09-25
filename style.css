@@ -99,6 +99,7 @@ h2{font-size:2rem;letter-spacing:-.035em}
 .about-grid .section-heading,.contact-grid .section-heading{margin-bottom:0}
 .about-copy{max-width:700px}
 .about-copy h3{font-size:1.15rem;margin-bottom:6px}
+.degree{margin:0 0 6px;color:var(--accent)}
 .qualification{margin:0 0 18px;color:var(--accent);font-weight:600}
 .about-copy>p:last-child{color:var(--muted);max-width:650px}
 .contact-copy{display:flex;flex-direction:column;gap:10px;font-family:"Manrope",Arial,sans-serif;font-size:1.15rem;font-weight:600;letter-spacing:-.025em}
@@ -123,7 +124,7 @@ h2{font-size:2rem;letter-spacing:-.035em}
   h1{font-size:clamp(2.35rem,10vw,4rem)}
   .hero-lines{gap:8px 22px;font-size:1.15rem}
   .cards{grid-template-columns:1fr}
-  .card{min-height:auto;grid-column:1}
+  .card{min-height:auto;grid-column:1;margin-top:0}
   .about-grid,.contact-grid{grid-template-columns:1fr;gap:26px}
   .section{padding:64px 0}
   .section-heading{margin-bottom:26px}
