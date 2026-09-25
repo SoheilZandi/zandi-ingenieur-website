@@ -164,3 +164,15 @@ h2{font-size:2rem;letter-spacing:-.035em}
   font-weight:400;
   color:var(--accent);
 }
+/* Finale Positionierung Kontakt – Desktop */
+@media(min-width:761px){
+  #kontakt .section-heading{
+    position:relative;
+    left:-20px;
+  }
+
+  #kontakt .contact-copy{
+    position:relative;
+    left:217px;
+    white-space:nowrap;
+  }
