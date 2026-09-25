@@ -103,7 +103,17 @@ h2{font-size:2rem;letter-spacing:-.035em}
 .degree{margin:0 0 18px;color:var(--accent)}
 .qualification{margin:0 0 18px;color:var(--accent);font-weight:600}
 .about-copy>p:last-child{color:var(--muted);max-width:650px}
-.contact-copy{display:flex;flex-direction:column;gap:10px;grid-column:2;font-family:"Manrope",Arial,sans-serif;font-size:1.15rem;font-weight:600;letter-spacing:-.025em}
+.contact-copy{
+  grid-column:2;
+  align-self:start;
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+  font-family:"Manrope",Arial,sans-serif;
+  font-size:1.15rem;
+  font-weight:600;
+  letter-spacing:-.025em;
+}
 .site-footer{padding:26px 0;color:var(--muted);font-size:.82rem}
 .footer-inner{display:flex;justify-content:space-between;gap:20px}
 .footer-inner div{display:flex;gap:22px}
