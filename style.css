@@ -174,5 +174,9 @@ h2{font-size:2rem;letter-spacing:-.035em}
   #kontakt .contact-copy{
     position:relative;
     left:280px;
+    
+    .freelance{
+  color:var(--accent);
+}
     white-space:nowrap;
   }
