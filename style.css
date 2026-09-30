@@ -187,7 +187,7 @@ h2{font-size:2rem;letter-spacing:-.035em}
   position:absolute;
   right:25px;
   top:135px;
-  width:220px;
+  width:210px;
 }
 
 .tuv-badge img{
@@ -198,10 +198,16 @@ h2{font-size:2rem;letter-spacing:-.035em}
 
 @media(max-width:760px){
   .tuv-badge{
-    position:relative;
-    right:auto;
-    top:auto;
-    width:100px;
-    margin:25px auto 0;
+    position:relative !important;
+    right:auto !important;
+    top:auto !important;
+    width:80px !important;
+    margin:25px auto 0 !important;
   }
-}  
+
+  .tuv-badge img{
+    width:100% !important;
+    height:auto !important;
+    display:block !important;
+  }
+}
